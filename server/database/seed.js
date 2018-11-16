@@ -10,7 +10,7 @@ Number.prototype.pad = function(size) {
 };
 
 const csvReview = () => {
-
+//
   const file = fs.createWriteStream('./reviews.csv');
   let shoeID;
   let author;
