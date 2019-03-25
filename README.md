@@ -14,9 +14,7 @@ This project was to replacing an existing application’s backend with more powe
 
 ## Related Projects
 
-  - https://github.com/Nike-Database-It/Sizing-Cart_Service.git
-  - https://github.com/Nike-Database-It/Navigation-Search-Service.git
-  - https://github.com/Nike-Database-It/page-footer.git
+  - https://github.com/Nike-Database-It/gora-main_photo_gallery.git
   - https://github.com/Nike-Database-It/similar-products-carousel.git
   - https://github.com/Nike-Database-It/shoe_name_and_colors.git
   - https://github.com/Nike-Database-It/main_photo_gallery.git
