@@ -49,7 +49,7 @@ npm install
 - npm test to run jest unit test suite for all components 
 
 ## Acknowledgements
-- Thanks to everyone on the Nike-Datase-ir team for builing awesome modules. 
+- Thanks to everyone on the Nike-Datase-It team for builing awesome modules!
 
 
 
