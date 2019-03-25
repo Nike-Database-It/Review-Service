@@ -5,6 +5,9 @@
 This project was to replacing an existing application’s backend with more powerful database to handle heavy internet traffic request.
 
 
+![ec2 service](https://user-images.githubusercontent.com/39642408/54904213-24742680-4e9b-11e9-8562-a668de16a37a.png)
+![Screen Shot 2019-03-21 at 4 59 12 PM](https://user-images.githubusercontent.com/39642408/54904217-2807ad80-4e9b-11e9-9186-c9022059b457.png)
+
 
 
 
