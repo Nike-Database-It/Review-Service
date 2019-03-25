@@ -14,12 +14,12 @@ This project was to replacing an existing application’s backend with more powe
 
 ## Related Projects
 
-- https://github.com/WARP-V/Sizing-Cart_Service
-  - https://github.com/WARP-V/Navigation-Search-Service
-  - https://github.com/WARP-V/page-footer
-  - https://github.com/WARP-V/similar-products-carousel
-  - https://github.com/WARP-V/shoe_name_and_colors
-  - https://github.com/WARP-V/main_photo_gallery
+  - https://github.com/WARP-V/Sizing-Cart_Service.git
+  - https://github.com/WARP-V/Navigation-Search-Service.git
+  - https://github.com/WARP-V/page-footer.git
+  - https://github.com/WARP-V/similar-products-carousel.git
+  - https://github.com/WARP-V/shoe_name_and_colors.git
+  - https://github.com/WARP-V/main_photo_gallery.git
 
 ## Table of Contents
 
@@ -31,17 +31,14 @@ This project was to replacing an existing application’s backend with more powe
 
 ## To Set Up & Run Locally
 - npm install
-- npm run dev to run webpack
-- npm start to run server
-- run mongod in terminal tab, run mongo in new terminal tab
-- npm run seed to seed the database for mongoDB(seeds data for 100 records)
+- npm run watch to run webpack
+- npm server-dev to run server
+- npm run db-seed to seed the database for mongoDB(seeds data for 100 records)
 
 
 ## Requirements
 -  Node 10.15.3
 -  postgresQL DB
-
-
 
 
 ### Installing Dependencies
@@ -54,8 +51,7 @@ npm install
 - npm test to run jest unit test suite for all components 
 
 ## Acknowledgements
-- Thanks to everyone on the JISHAX team for builing awesome modules that bring to life the Drop Table verison of the Open table restaurant page user experience! 
-
+- Thanks to everyone on the Nike-Datase-ir team for builing awesome modules. 
 
 
 
